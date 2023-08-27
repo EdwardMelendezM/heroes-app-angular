@@ -8,22 +8,6 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
@@ -166,6 +150,78 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "Tw-XMzD",
+      "superhero": "",
+      "publisher": "DC Comics",
+      "alter_go": "",
+      "first_appearance": "",
+      "characters": "",
+      "alt_img": ""
+    },
+    {
+      "id": "C9xQnL6",
+      "superhero": "",
+      "publisher": "DC Comics",
+      "alter_go": "",
+      "first_appearance": "",
+      "characters": "",
+      "alt_img": ""
+    },
+    {
+      "id": "_vmoDv9",
+      "superhero": "",
+      "publisher": "DC Comics",
+      "alter_go": "",
+      "first_appearance": "",
+      "characters": "",
+      "alt_img": ""
+    },
+    {
+      "id": "A7pYxrr",
+      "superhero": "",
+      "publisher": "DC Comics",
+      "alter_go": "",
+      "first_appearance": "",
+      "characters": "",
+      "alt_img": ""
+    },
+    {
+      "id": "kIRiwsE",
+      "superhero": "",
+      "publisher": "DC Comics",
+      "alter_go": "",
+      "first_appearance": "",
+      "characters": "",
+      "alt_img": ""
+    },
+    {
+      "id": "QX6_d_k",
+      "superhero": "",
+      "publisher": "DC Comics",
+      "alter_go": "",
+      "first_appearance": "",
+      "characters": "",
+      "alt_img": ""
+    },
+    {
+      "id": "em4nrEq",
+      "superhero": "",
+      "publisher": "DC Comics",
+      "alter_go": "",
+      "first_appearance": "",
+      "characters": "",
+      "alt_img": ""
+    },
+    {
+      "id": "E4ajIEm",
+      "superhero": "hero",
+      "publisher": "DC Comics",
+      "alter_go": "dd",
+      "first_appearance": "#1 SS",
+      "characters": "Juan",
+      "alt_img": "https://wallpapercave.com/dwp1x/wp2071579.jpg"
     }
   ]
 }
